@@ -9,6 +9,9 @@ function App() {
     <>
       <Header />
       <Main />
+      <div>
+        <AppRoutes />
+      </div>
       <Footer />
     </>
   )
